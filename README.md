@@ -1,1 +1,1 @@
-https://wesusd.github.io/rsschool-cv/
+https://wesusd.github.io/rsschool-cv/cv
